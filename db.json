@@ -17,6 +17,15 @@
       "comment": "jkbjhvjkvkj",
       "date": "2022-04-27T05:00:00.000Z",
       "id": 2
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electronics",
+      "freshess": "Brand New",
+      "price": 2000000,
+      "comment": "Trae audífonos y estuche celular",
+      "date": "2022-04-28T05:00:00.000Z",
+      "id": 3
     }
   ],
   "comments": [
